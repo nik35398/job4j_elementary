@@ -11,7 +11,7 @@ public class Point {
     }
 
     public static void main(String[] args) {
-        double result = Point.distance(12, 3, -9, -2);
-        System.out.println("Result (12, 3) to (-9, -2) " + result);
+        double result = Point.distance(11, 3, -9, -2);
+        System.out.println("Result (11, 3) to (-9, -2) " + result);
     }
 }
